@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2aa9f813bb7a7f49b1739997aba4ad9d",
-"assets/AssetManifest.bin.json": "3879b59f315cfd78619818e6ee82c79f",
-"assets/AssetManifest.json": "f4ad42f2da63eb25e4b30a2ec42e1338",
+const RESOURCES = {"assets/AssetManifest.bin": "3f6e10cd4fa9ddaeaf5770eacaf75dea",
+"assets/AssetManifest.bin.json": "f20452e5cd65d533471bda5875f90417",
+"assets/AssetManifest.json": "7573a85d070c337ca3f1637891e68f88",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/Linke.ttf": "aa3832163b621ddeafde20c9b4865d11",
@@ -22,8 +22,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "2aa9f813bb7a7f49b1739997aba4ad9d
 "assets/assets/images/digital-7641873.jpg": "a50b817148d5a03492422d5098459fd5",
 "assets/assets/images/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/images/financial.jpg": "1572851fcd0dfbfc14f449d7cf500d2c",
-"assets/assets/images/f_and_b.jpg": "3227f6784df92c0554ea5d19a4703e5c",
-"assets/assets/images/healthcare.jpg": "3842e1b1b086430895ce24dad62ab511",
+"assets/assets/images/f_and_b.jpg.png": "dced04decc0aef23d79db4066896980b",
+"assets/assets/images/healthcare.jpg.png": "c5be499e959af56b8a16436564bfd02a",
 "assets/assets/images/logo_blackpng.png": "041959774a257cb70b913f2b00cb9f01",
 "assets/assets/images/marketing.jpg": "a6436374e6189dda2961445c57da3cfc",
 "assets/assets/images/retail.jpg": "1fd0d79c28dece72f7771bb567c83c93",
